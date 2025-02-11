@@ -1,0 +1,31 @@
+{
+  "name": "only_typescript",
+  "version": "1.0.0",
+  "description": "Solving DSA, LLD and more in Typescript",
+  "main": "main.js",
+  "scripts": {
+    "dev": "tsx src/main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AchyutPal21/only_typescript.git"
+  },
+  "keywords": [
+    "typescript",
+    "dsa",
+    "leetcode",
+    "lld",
+    "lowleveldesign"
+  ],
+  "author": "Achyut Pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AchyutPal21/only_typescript/issues"
+  },
+  "homepage": "https://github.com/AchyutPal21/only_typescript#readme",
+  "devDependencies": {
+    "@types/node": "^22.13.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}
