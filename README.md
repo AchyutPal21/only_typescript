@@ -17,11 +17,22 @@ To efficiently track problems, I use the following **emoji markers** in this REA
 
 ## 📂 Topics Covered
 
+### 🔹 Greedy
+
+- **PART - I**
+- ❇️ _1323. Maximum 69 Number_ - [Link](https://leetcode.com/problems/maximum-69-number/description/)
+- ❇️ _2656. Maximum Sum With Exactly K Elements_ - [Link](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/description/)
+  - EMOJI _QUESTIONS-NAME_ - [Link]()
+
 ### 🔹 Hashing
 
 - **Implementation Problems**
-  - ❇️ **2956. Find Common Elements Between Two Arrays** - [Link](https://leetcode.com/problems/find-common-elements-between-two-arrays/description/)
+
+  - ❇️ _2956. Find Common Elements Between Two Arrays_ - [Link](https://leetcode.com/problems/find-common-elements-between-two-arrays/description/)
+  - EMOJI _QUESTIONS-NAME_ - [Link]()
+
 - **With Prefix Sum**
+  - EMOJI _QUESTIONS-NAME_ - [Link]()
 
 ### 🔹 Matrix
 
@@ -30,12 +41,24 @@ To efficiently track problems, I use the following **emoji markers** in this REA
 ### 🔹 Queue
 
 - **Implementation Problems**
-  - 🔍 **225. Implement Stack using Queues** - [Link](https://leetcode.com/problems/implement-stack-using-queues/)
-  - ❇️ **232. Implement Queue using Stacks** - [Link](https://leetcode.com/problems/implement-queue-using-stacks/)
-  - 🤔 **622. Design Circular Queue** - [Link](https://leetcode.com/problems/design-circular-queue/)
+  - 🔍 _225. Implement Stack using Queues_ - [Link](https://leetcode.com/problems/implement-stack-using-queues/description/)
+  - ❇️ _232. Implement Queue using Stacks_ - [Link](https://leetcode.com/problems/implement-queue-using-stacks/description/)
+  - 🤔 _622. Design Circular Queue_ - [Link](https://leetcode.com/problems/design-circular-queue/description/)
+  - ❇️ _1670. Design Front Middle Back Queue_ - [Link](https://leetcode.com/problems/design-front-middle-back-queue/description/)
+  - EMOJI _QUESTIONS-NAME_ - [Link]()
+
+### 🔹 Recursion
+
+- **Recursion Problems**
+  - 🔍 _2. Add Two Numbers_ - [Link](https://leetcode.com/problems/add-two-numbers/description/)
+  - 🔍 _509. Fibonacci Number_ - [Link](https://leetcode.com/problems/fibonacci-number/description/)
+  - 🔍 _50. Pow(x, n)_ - [Link](https://leetcode.com/problems/powx-n/description/)
+  - 🔍 _231. Power of Two_ - [Link](https://leetcode.com/problems/power-of-two/description/)
+  - EMOJI _QUESTIONS-NAME_ - [Link]()
 
 ### 🔹 Stack
 
 - **Parentheses Problems**
-  - ❇️ **20. Valid Parentheses** - [Link](https://leetcode.com/problems/valid-parentheses/)
-  - 🔍 **1021. Remove Outermost Parentheses** - [Link](https://leetcode.com/problems/remove-outermost-parentheses/)
+  - ❇️ _20. Valid Parentheses_ - [Link](https://leetcode.com/problems/valid-parentheses/description/)
+  - 🔍 _1021. Remove Outermost Parentheses_ - [Link](https://leetcode.com/problems/remove-outermost-parentheses/description/)
+  - EMOJI _QUESTIONS-NAME_ - [Link]()
