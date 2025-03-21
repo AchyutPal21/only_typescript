@@ -62,3 +62,8 @@ To efficiently track problems, I use the following **emoji markers** in this REA
   - ❇️ _20. Valid Parentheses_ - [Link](https://leetcode.com/problems/valid-parentheses/description/)
   - 🔍 _1021. Remove Outermost Parentheses_ - [Link](https://leetcode.com/problems/remove-outermost-parentheses/description/)
   - EMOJI _QUESTIONS-NAME_ - [Link]()
+
+### Two Pointers
+
+- **Problems on Array**
+  - 🔍 _88. Merge Sorted Array_ - [Link](https://leetcode.com/problems/merge-sorted-array/description/)
