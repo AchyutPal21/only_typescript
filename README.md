@@ -66,4 +66,12 @@ To efficiently track problems, I use the following **emoji markers** in this REA
 ### Two Pointers
 
 - **Problems on Array**
+
   - 🔍 _88. Merge Sorted Array_ - [Link](https://leetcode.com/problems/merge-sorted-array/description/)
+  - ❇️ _905. Sort Array By Parity_ - [Link](https://leetcode.com/problems/sort-array-by-parity/description/)
+  - ❇️ _922. Sort Array By Parity II_ - [Link](https://leetcode.com/problems/sort-array-by-parity-ii/description/)
+  - EMOJI _QUESTIONS-NAME_ - [Link]()
+
+- **Problems on String**
+  - 🔍 _443. String Compression_ - [Link](https://leetcode.com/problems/string-compression/description/)
+  - EMOJI _QUESTIONS-NAME_ - [Link]()
